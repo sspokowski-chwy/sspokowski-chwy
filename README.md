@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hey I'm Sam.  I'm into delivering high quality software effeciently.  Talk to me about test automation, DevOps, and security.
 
 <!--
 **sspokowski-chwy/sspokowski-chwy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
